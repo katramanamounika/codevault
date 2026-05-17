@@ -1,9 +1,11 @@
 # Hi there
-I am a student Passionate about development.
+I'm Mounika 3rd year Engineering Student Passionate about AI,Development.
 #skills
--C,C++,JAVA
+-Python,Java
+-SQL
 -HTML,CSS
-#Learning
+# Currently Learning
+-Full Stack
 -DSA
 -WEB DEV
 #Contact
